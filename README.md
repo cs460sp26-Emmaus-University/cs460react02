@@ -4,7 +4,7 @@ Your Vite + React Crypto app can be deployed live with just a few clicks.
 
 ### Easiest Way:
 
-1. **Copy your repository URL** — it should look like this:  
+1. **Copy your repository URL** — it should look something like this:  
    `https://github.com/cis-EU/react-project-2-YourGitHubUsername-crypto`
 
 2. Click the button below:
@@ -17,6 +17,7 @@ Your Vite + React Crypto app can be deployed live with just a few clicks.
    - Wait 1–2 minutes for the build to finish.
 
 4. When it's done, click the live URL Render gives you (e.g. `https://crypto-app-xxxx.onrender.com`).
+   - you may need to go to dashboard.render.com and view your services to see the live site link
 
 Your app is now live on the internet!
 
